@@ -128,3 +128,6 @@ When prompted for authentication, click on the + before **Use another account** 
     
     ![](media/Teamslist.png)
     
+===
+
+Prep lab with script
