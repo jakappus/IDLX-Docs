@@ -1,7 +1,9 @@
 # Lab 02 - Configuring your Tenant for Microsoft Teams
 In this lab you will prepare your tenant for Microsoft Teams.  In the first exercise, you will configure Groups Based Licensing in AzureAD
 
-## Exercise 01 - Navigate to the Azure AD Portal
+## Exercise 01 - Using Azure AD Group Based Licensing to Provision Users for Microsoft Teams
+
+### Task 01 - Navigate to the Azure AD Portal
 
 1. [ ] Open Internet Explorer and navigate to the [Microsoft 365 Admin Portal](https://admin.microsoft.com).  If prompted, log in using the **cloud credentials** for your tenant, located in the Resource Tab.
 ![](Media/AzureADPortal.png)
@@ -11,7 +13,7 @@ In this lab you will prepare your tenant for Microsoft Teams.  In the first exer
 
 ===
 
-## Exercise 02 - Create a new Dynamic Azure AD Group
+### Task 02 - Create a new Dynamic Azure AD Group
 
 1. [ ] On the Azure Active Directory pane, Under **Manage** select **Groups** to open a pane where you can see and manage all licensable products in the tenant.
 ![](Media/GroupsMenu.png)
@@ -63,7 +65,7 @@ In this lab you will prepare your tenant for Microsoft Teams.  In the first exer
 
 ===
 
-## Exercise 03 - Assign Licenses to the Group
+### Task 03 - Assign Licenses to the Group
 
 1. [ ] On the Azure Active Directory pane, Under **Manage** select **Licenses** to open a pane where you can see and manage all licensable products in the tenant.
 ![](Media/Licensesmenu.png)
@@ -87,7 +89,7 @@ Confirm by clicking OK at the bottom of **Assignment** options.
 >[!note] This initial operation might take some time, depending on the current size of the group.
 ![](Media/LicenseProvisioningScheduled.png)
 
-## Exercise 04 - Verify the License change was applied to the Sales users
+## Task 04 - Verify the License change was applied to the Sales users
 
 6. [ ] Still within the **Sales Group** Overview pane, under **Manage** click on **Licenses**.  Then Click on **Office 365 Enterprise E5**.
 
@@ -101,7 +103,7 @@ Confirm by clicking OK at the bottom of **Assignment** options.
 ===
 In this lab, you created a new Dynamic Group in Azure Active Directory.  Then you enabled Microsoft Teams for the group using the Azure AD Group Based Licensing feature.  This feature allows you to easily control which M365 users can use a product or more than one product.  It makes piloting a new service easy as ever.  
 
-## YOU HAVE COMPLETED THIS LAB! 
-Click **Next** to continue and close this lab. 
+#### YOU HAVE COMPLETED THIS EXERCISE! 
+Click **Next** to continue to the next Exercise. 
  
 
