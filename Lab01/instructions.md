@@ -128,6 +128,24 @@ When prompted for authentication, click on the + before **Use another account** 
     
     ![](media/Teamslist.png)
     
+### DO NOT CLOSE THE MICROSOFT TEAMS ADMIN CENTER
 ===
 
-Prep lab with script
+### **Exercise 02: Enable Guest Access to Microsoft Teams**
+In this exercise you will enable Guest Access to Microsoft Teams for use in a later labs.  This Exercise is required today because it takes 2-24 hours to provision the tenant for Guest Access.
+**DO NOT SKIP THIS EXERCISE!!!**
+
+1. [ ] From the Microsoft Teams Admin Center, in the main menu on the left, Select **Org-wide settings** then Guest access.
+
+    ![](media/GuestAccessMenu.png)
+    
+2. [ ] Set the ****Allow guest access in Microsoft Teams** toggle switch to **On**.  
+
+    Feel free to make any other changes you wish, just remember you made those changes tomorrow during the Guest Access Lab! :smile:
+    
+    ![](media/GuestAccessSettings.png)
+    
+### YOU HAVE COMPLETED LAB 01! ##  
+
+**If others are still finishing their labs, feel free to have a look around the Microsoft Teams Admin Center or take a break!  Check with your instructor before leaving the room though!**
+
