@@ -145,7 +145,7 @@ In this exercise you will enable Guest Access to Microsoft Teams for use in a la
     
     ![](media/GuestAccessSettings.png)
     
-### YOU HAVE COMPLETED LAB 01! ##  
+### YOU HAVE COMPLETED LAB 01!  
 
 **If others are still finishing their labs, feel free to have a look around the Microsoft Teams Admin Center or take a break!  Check with your instructor before leaving the room though!**
 
